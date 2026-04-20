@@ -182,7 +182,7 @@ If you want to go further:
 
 ---
 
-# Teaching Notes (for you)
+# Notes
 
 * Don’t rush into complexity
 * Let's break things
