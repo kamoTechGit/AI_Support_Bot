@@ -105,7 +105,6 @@ Experiment:
 * Can you force it to say “I don’t know”?
 * Does it stay grounded in the knowledge file?
 
-👉 This is where real learning happens.
 
 ---
 
