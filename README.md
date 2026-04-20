@@ -109,7 +109,7 @@ Experiment:
 
 ---
 
-## 4️⃣ Dockerize the App
+## 4️ Dockerize the App
 
 Build:
 
@@ -127,7 +127,7 @@ Now the app runs anywhere.
 
 ---
 
-## 5️⃣ Add CI/CD (Automation)
+## 5️ Add CI/CD (Automation)
 
 We use GitHub Actions to:
 
@@ -171,7 +171,7 @@ Try these before moving on:
 
 ---
 
-# 🧩 Optional Extensions
+#  Optional Extensions
 
 If you want to go further:
 
@@ -201,4 +201,4 @@ You should walk away understanding:
 
 ---
 
-Happy building 🚀
+Happy building !!!
