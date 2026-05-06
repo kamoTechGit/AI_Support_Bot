@@ -1,0 +1,39 @@
+Company: Acme Software Solutions
+Support Hours: Monday to Friday, 09:00 - 17:00 SAST (UTC+2)
+Emergency support is available 24/7 for critical production issues via support@acme.example.com
+
+Contact:
+- General support: support@acme.example.com
+- Sales: sales@acme.example.com
+- Phone: +27 11 000 1234
+
+Products:
+- Acme CRM: Customer relationship management platform. Supports up to 10,000 contacts on the Starter plan, unlimited on Pro.
+- Acme Analytics: Real-time reporting dashboard. Connects to Google Sheets, CSV uploads, and REST APIs.
+- Acme Payments: Payment processing integration supporting Visa, Mastercard, and EFT.
+
+Pricing:
+- Starter Plan: R499/month — 1 user, 10 GB storage, email support
+- Pro Plan: R1,499/month — 10 users, 100 GB storage, priority support
+- Enterprise: Custom pricing — unlimited users, dedicated account manager
+
+Refund Policy:
+- Free 14-day trial on all plans, no credit card required.
+- Refunds are available within 30 days of first payment for new subscribers.
+- No refunds after 30 days. Accounts can be cancelled at any time.
+
+Troubleshooting:
+- If you cannot log in, reset your password at app.acme.example.com/reset
+- If the dashboard is loading slowly, clear your browser cache or try a different browser.
+- For API errors, check that your API key is active under Settings > API Keys.
+- If you are not receiving emails, check your spam folder and whitelist noreply@acme.example.com.
+
+Integrations:
+- Acme CRM integrates with Slack, Zapier, and Google Workspace.
+- Acme Payments integrates with WooCommerce and Shopify.
+- All products expose a REST API documented at docs.acme.example.com.
+
+Data & Privacy:
+- All data is stored in South Africa (Johannesburg region).
+- Acme is POPIA compliant. Data deletion requests are processed within 7 business days.
+- Backups are taken daily and retained for 30 days.
